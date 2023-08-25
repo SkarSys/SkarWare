@@ -1,0 +1,868 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  driverdefs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(66,1): warning C4005: 'STATUS_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2549,1): message : see previous definition of 'STATUS_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(223,1): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2550,1): message : see previous definition of 'STATUS_ABANDONED_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(246,1): warning C4005: 'STATUS_USER_APC': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2551,1): message : see previous definition of 'STATUS_USER_APC'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(282,1): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2552,1): message : see previous definition of 'STATUS_TIMEOUT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(291,1): warning C4005: 'STATUS_PENDING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2553,1): message : see previous definition of 'STATUS_PENDING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(747,1): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2554,1): message : see previous definition of 'DBG_EXCEPTION_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(756,1): warning C4005: 'DBG_CONTINUE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2555,1): message : see previous definition of 'DBG_CONTINUE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(831,1): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2556,1): message : see previous definition of 'STATUS_SEGMENT_NOTIFICATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(994,1): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2557,1): message : see previous definition of 'STATUS_FATAL_APP_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1332,1): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2558,1): message : see previous definition of 'DBG_REPLY_LATER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1350,1): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2559,1): message : see previous definition of 'DBG_TERMINATE_THREAD'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1359,1): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2560,1): message : see previous definition of 'DBG_TERMINATE_PROCESS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1368,1): warning C4005: 'DBG_CONTROL_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2561,1): message : see previous definition of 'DBG_CONTROL_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1377,1): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2562,1): message : see previous definition of 'DBG_PRINTEXCEPTION_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1386,1): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2563,1): message : see previous definition of 'DBG_RIPEXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1395,1): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2564,1): message : see previous definition of 'DBG_CONTROL_BREAK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1404,1): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2565,1): message : see previous definition of 'DBG_COMMAND_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1413,1): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2566,1): message : see previous definition of 'DBG_PRINTEXCEPTION_WIDE_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1445,1): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2567,1): message : see previous definition of 'STATUS_GUARD_PAGE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1456,1): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2568,1): message : see previous definition of 'STATUS_DATATYPE_MISALIGNMENT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1467,1): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2569,1): message : see previous definition of 'STATUS_BREAKPOINT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1478,1): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2570,1): message : see previous definition of 'STATUS_SINGLE_STEP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1781,1): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2571,1): message : see previous definition of 'STATUS_LONGJUMP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1808,1): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2572,1): message : see previous definition of 'STATUS_UNWIND_CONSOLIDATE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1923,1): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2573,1): message : see previous definition of 'DBG_EXCEPTION_NOT_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2090,1): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2574,1): message : see previous definition of 'STATUS_ACCESS_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2099,1): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2575,1): message : see previous definition of 'STATUS_IN_PAGE_ERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2117,1): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2576,1): message : see previous definition of 'STATUS_INVALID_HANDLE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2162,1): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2577,1): message : see previous definition of 'STATUS_INVALID_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2262,1): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2578,1): message : see previous definition of 'STATUS_NO_MEMORY'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2319,1): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2579,1): message : see previous definition of 'STATUS_ILLEGAL_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2400,1): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2580,1): message : see previous definition of 'STATUS_NONCONTINUABLE_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2409,1): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2581,1): message : see previous definition of 'STATUS_INVALID_DISPOSITION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3342,1): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2582,1): message : see previous definition of 'STATUS_ARRAY_BOUNDS_EXCEEDED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3352,1): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2583,1): message : see previous definition of 'STATUS_FLOAT_DENORMAL_OPERAND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3362,1): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2584,1): message : see previous definition of 'STATUS_FLOAT_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3372,1): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2585,1): message : see previous definition of 'STATUS_FLOAT_INEXACT_RESULT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3382,1): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2586,1): message : see previous definition of 'STATUS_FLOAT_INVALID_OPERATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3392,1): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2587,1): message : see previous definition of 'STATUS_FLOAT_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3402,1): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2588,1): message : see previous definition of 'STATUS_FLOAT_STACK_CHECK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3412,1): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2589,1): message : see previous definition of 'STATUS_FLOAT_UNDERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3422,1): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2590,1): message : see previous definition of 'STATUS_INTEGER_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3432,1): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2591,1): message : see previous definition of 'STATUS_INTEGER_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3442,1): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2592,1): message : see previous definition of 'STATUS_PRIVILEGED_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4388,1): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2593,1): message : see previous definition of 'STATUS_STACK_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4905,1): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2594,1): message : see previous definition of 'STATUS_DLL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4934,1): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2595,1): message : see previous definition of 'STATUS_ORDINAL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4944,1): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2596,1): message : see previous definition of 'STATUS_ENTRYPOINT_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4954,1): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2597,1): message : see previous definition of 'STATUS_CONTROL_C_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(5032,1): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2598,1): message : see previous definition of 'STATUS_DLL_INIT_FAILED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(6029,1): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2599,1): message : see previous definition of 'STATUS_CONTROL_STACK_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7623,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2600,1): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_FAULTS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7633,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2601,1): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_TRAPS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7765,1): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2602,1): message : see previous definition of 'STATUS_REG_NAT_CONSUMPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8748,1): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2603,1): message : see previous definition of 'STATUS_HEAP_CORRUPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8976,1): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2604,1): message : see previous definition of 'STATUS_STACK_BUFFER_OVERRUN'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9103,1): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2605,1): message : see previous definition of 'STATUS_INVALID_CRUNTIME_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9166,1): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2606,1): message : see previous definition of 'STATUS_ASSERTION_FAILURE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10075,1): warning C4005: 'STATUS_ENCLAVE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2607,1): message : see previous definition of 'STATUS_ENCLAVE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10736,1): warning C4005: 'STATUS_INTERRUPTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2608,1): message : see previous definition of 'STATUS_INTERRUPTED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10745,1): warning C4005: 'STATUS_THREAD_NOT_RUNNING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2609,1): message : see previous definition of 'STATUS_THREAD_NOT_RUNNING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(11057,1): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2610,1): message : see previous definition of 'STATUS_ALREADY_REGISTERED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(14976,1): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2612,1): message : see previous definition of 'STATUS_SXS_EARLY_DEACTIVATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(14985,1): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2613,1): message : see previous definition of 'STATUS_SXS_INVALID_DEACTIVATION'
+  External.cpp
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(172,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(173,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(174,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(176,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(177,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(178,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(180,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(181,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(182,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(183,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(184,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(185,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(187,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(188,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(189,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(190,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(192,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(193,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(194,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(195,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(197,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(198,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(199,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(200,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(241,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(66,1): warning C4005: 'STATUS_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2549,1): message : see previous definition of 'STATUS_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(223,1): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2550,1): message : see previous definition of 'STATUS_ABANDONED_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(246,1): warning C4005: 'STATUS_USER_APC': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2551,1): message : see previous definition of 'STATUS_USER_APC'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(282,1): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2552,1): message : see previous definition of 'STATUS_TIMEOUT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(291,1): warning C4005: 'STATUS_PENDING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2553,1): message : see previous definition of 'STATUS_PENDING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(747,1): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2554,1): message : see previous definition of 'DBG_EXCEPTION_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(756,1): warning C4005: 'DBG_CONTINUE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2555,1): message : see previous definition of 'DBG_CONTINUE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(831,1): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2556,1): message : see previous definition of 'STATUS_SEGMENT_NOTIFICATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(994,1): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2557,1): message : see previous definition of 'STATUS_FATAL_APP_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1332,1): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2558,1): message : see previous definition of 'DBG_REPLY_LATER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1350,1): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2559,1): message : see previous definition of 'DBG_TERMINATE_THREAD'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1359,1): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2560,1): message : see previous definition of 'DBG_TERMINATE_PROCESS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1368,1): warning C4005: 'DBG_CONTROL_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2561,1): message : see previous definition of 'DBG_CONTROL_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1377,1): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2562,1): message : see previous definition of 'DBG_PRINTEXCEPTION_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1386,1): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2563,1): message : see previous definition of 'DBG_RIPEXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1395,1): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2564,1): message : see previous definition of 'DBG_CONTROL_BREAK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1404,1): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2565,1): message : see previous definition of 'DBG_COMMAND_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1413,1): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2566,1): message : see previous definition of 'DBG_PRINTEXCEPTION_WIDE_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1445,1): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2567,1): message : see previous definition of 'STATUS_GUARD_PAGE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1456,1): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2568,1): message : see previous definition of 'STATUS_DATATYPE_MISALIGNMENT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1467,1): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2569,1): message : see previous definition of 'STATUS_BREAKPOINT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1478,1): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2570,1): message : see previous definition of 'STATUS_SINGLE_STEP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1781,1): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2571,1): message : see previous definition of 'STATUS_LONGJUMP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1808,1): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2572,1): message : see previous definition of 'STATUS_UNWIND_CONSOLIDATE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1923,1): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2573,1): message : see previous definition of 'DBG_EXCEPTION_NOT_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2090,1): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2574,1): message : see previous definition of 'STATUS_ACCESS_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2099,1): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2575,1): message : see previous definition of 'STATUS_IN_PAGE_ERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2117,1): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2576,1): message : see previous definition of 'STATUS_INVALID_HANDLE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2162,1): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2577,1): message : see previous definition of 'STATUS_INVALID_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2262,1): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2578,1): message : see previous definition of 'STATUS_NO_MEMORY'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2319,1): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2579,1): message : see previous definition of 'STATUS_ILLEGAL_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2400,1): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2580,1): message : see previous definition of 'STATUS_NONCONTINUABLE_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2409,1): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2581,1): message : see previous definition of 'STATUS_INVALID_DISPOSITION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3342,1): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2582,1): message : see previous definition of 'STATUS_ARRAY_BOUNDS_EXCEEDED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3352,1): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2583,1): message : see previous definition of 'STATUS_FLOAT_DENORMAL_OPERAND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3362,1): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2584,1): message : see previous definition of 'STATUS_FLOAT_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3372,1): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2585,1): message : see previous definition of 'STATUS_FLOAT_INEXACT_RESULT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3382,1): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2586,1): message : see previous definition of 'STATUS_FLOAT_INVALID_OPERATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3392,1): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2587,1): message : see previous definition of 'STATUS_FLOAT_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3402,1): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2588,1): message : see previous definition of 'STATUS_FLOAT_STACK_CHECK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3412,1): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2589,1): message : see previous definition of 'STATUS_FLOAT_UNDERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3422,1): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2590,1): message : see previous definition of 'STATUS_INTEGER_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3432,1): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2591,1): message : see previous definition of 'STATUS_INTEGER_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3442,1): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2592,1): message : see previous definition of 'STATUS_PRIVILEGED_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4388,1): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2593,1): message : see previous definition of 'STATUS_STACK_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4905,1): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2594,1): message : see previous definition of 'STATUS_DLL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4934,1): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2595,1): message : see previous definition of 'STATUS_ORDINAL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4944,1): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2596,1): message : see previous definition of 'STATUS_ENTRYPOINT_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4954,1): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2597,1): message : see previous definition of 'STATUS_CONTROL_C_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(5032,1): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2598,1): message : see previous definition of 'STATUS_DLL_INIT_FAILED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(6029,1): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2599,1): message : see previous definition of 'STATUS_CONTROL_STACK_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7623,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2600,1): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_FAULTS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7633,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2601,1): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_TRAPS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7765,1): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2602,1): message : see previous definition of 'STATUS_REG_NAT_CONSUMPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8748,1): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2603,1): message : see previous definition of 'STATUS_HEAP_CORRUPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8976,1): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2604,1): message : see previous definition of 'STATUS_STACK_BUFFER_OVERRUN'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9103,1): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2605,1): message : see previous definition of 'STATUS_INVALID_CRUNTIME_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9166,1): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2606,1): message : see previous definition of 'STATUS_ASSERTION_FAILURE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10075,1): warning C4005: 'STATUS_ENCLAVE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2607,1): message : see previous definition of 'STATUS_ENCLAVE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10736,1): warning C4005: 'STATUS_INTERRUPTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2608,1): message : see previous definition of 'STATUS_INTERRUPTED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10745,1): warning C4005: 'STATUS_THREAD_NOT_RUNNING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2609,1): message : see previous definition of 'STATUS_THREAD_NOT_RUNNING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(11057,1): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2610,1): message : see previous definition of 'STATUS_ALREADY_REGISTERED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(14976,1): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2612,1): message : see previous definition of 'STATUS_SXS_EARLY_DEACTIVATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(14985,1): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2613,1): message : see previous definition of 'STATUS_SXS_INVALID_DEACTIVATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\uxtheme.h(1600,57): warning C4459: declaration of 'hwnd' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(21,6): message : see declaration of 'hwnd'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\driver.h(25,33): warning C4129: 'S': unrecognized character escape sequence
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\driver.h(32,17): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\driver.h(108,47): warning C4458: declaration of 'ProcessId' hides class member
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\driver.h(21,7): message : see declaration of 'Driver::ProcessId'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\driver.h(250,45): warning C4244: 'argument': conversion from 'SIZE_T' to 'uint32_t', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\xor.hpp(211,22): warning C4244: 'return': conversion from 'int' to 'char', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Keybind.h(7,1): warning C4005: 'IM_ARRAYSIZE': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Imgui/imgui.h(87,1): message : see previous definition of 'IM_ARRAYSIZE'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Keybind.h(55,22): warning C4100: 'blank': unreferenced formal parameter
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Keybind.h(71,24): warning C4100: 'blank': unreferenced formal parameter
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Keybind.h(87,25): warning C4100: 'blank': unreferenced formal parameter
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Keybind.h(103,23): warning C4100: 'blank': unreferenced formal parameter
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Keybind.h(119,26): warning C4100: 'blank': unreferenced formal parameter
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Keybind.h(785,14): warning C4459: declaration of 'aimkeys' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(37,20): message : see declaration of 'aimkeys'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Aimbot.cpp(10,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Aimbot.cpp(11,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Aimbot.cpp(36,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Aimbot.cpp(37,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Aimbot.cpp(38,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Aimbot.cpp(38,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(2,63): warning C4459: declaration of 'color' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(505,3): message : see declaration of 'color'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(6,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(7,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(10,46): warning C4459: declaration of 'h' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Print.hpp(13,8): message : see declaration of 'h'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(10,55): warning C4459: declaration of 'color' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(505,3): message : see declaration of 'color'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(13,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(13,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(13,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(13,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(16,47): warning C4459: declaration of 'h' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Print.hpp(13,8): message : see declaration of 'h'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(16,58): warning C4459: declaration of 'color' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(505,3): message : see declaration of 'color'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(20,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(21,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(22,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(22,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(22,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(22,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(23,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(23,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(23,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(23,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(24,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(24,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(24,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(24,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(25,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(25,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(25,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(25,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(26,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(26,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(26,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(26,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(27,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(27,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(27,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(27,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(28,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(28,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(28,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(28,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(29,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(29,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(29,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(29,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(32,53): warning C4459: declaration of 'color' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(505,3): message : see declaration of 'color'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(35,153): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(35,135): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(35,117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(35,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(35,164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(35,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(35,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(35,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\DrawEsp.h(35,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\W2S_ Camera.h(27,4): warning C4201: nonstandard extension used: nameless struct/union
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\W2S_ Camera.h(39,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\W2S_ Camera.h(39,23): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\W2S_ Camera.h(40,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\W2S_ Camera.h(40,21): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\W2S_ Camera.h(41,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\W2S_ Camera.h(41,22): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\W2S_ Camera.h(66,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\W2S_ Camera.h(67,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\W2S_ Camera.h(68,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\W2S_ Camera.h(95,11): warning C4244: '+=': conversion from 'int' to 'char', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\definitions.h(39,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\definitions.h(41,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(216,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(228,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(232,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(236,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(240,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(244,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(248,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(252,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(256,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(260,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(264,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(268,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(272,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(276,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(280,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(284,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(288,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(292,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(296,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(300,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(304,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(308,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(312,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(316,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(320,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(324,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(328,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(332,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(336,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(340,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(344,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(348,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(352,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(356,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(360,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(364,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(368,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(372,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(376,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(380,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(384,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(388,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(392,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(396,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(400,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(404,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(408,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(412,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(416,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(420,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(424,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(428,15): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(483,8): warning C4189: 'Style': local variable is initialized but not referenced
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(490,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(490,6): warning C4189: 'len': local variable is initialized but not referenced
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(506,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(574,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(581,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(598,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(598,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(596,15): warning C4189: 'GetWindowDrawList': local variable is initialized but not referenced
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(624,53): warning C4459: declaration of 'color' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(505,3): message : see declaration of 'color'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(635,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(636,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(640,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(640,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(641,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(641,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(642,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(642,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(643,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(643,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(645,184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(645,167): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(645,149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(645,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(645,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(645,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(21476,1): warning C4005: 'ICON_MIN_FA': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(7,1): message : see previous definition of 'ICON_MIN_FA'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(21477,1): warning C4005: 'ICON_MAX_FA': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(8,1): message : see previous definition of 'ICON_MAX_FA'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(21766,1): warning C4005: 'ICON_FA_CARAVAN_ALT': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(300,1): message : see previous definition of 'ICON_FA_CARAVAN_ALT'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(21786,1): warning C4005: 'ICON_FA_CAT_SPACE': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(320,1): message : see previous definition of 'ICON_FA_CAT_SPACE'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(21890,1): warning C4005: 'ICON_FA_COFFEE_POT': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(424,1): message : see previous definition of 'ICON_FA_COFFEE_POT'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(21898,1): warning C4005: 'ICON_FA_COMET': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(433,1): message : see previous definition of 'ICON_FA_COMET'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22084,1): warning C4005: 'ICON_FA_FAN_TABLE': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(619,1): message : see previous definition of 'ICON_FA_FAN_TABLE'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22088,1): warning C4005: 'ICON_FA_FAUCET': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(623,1): message : see previous definition of 'ICON_FA_FAUCET'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22089,1): warning C4005: 'ICON_FA_FAUCET_DRIP': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(624,1): message : see previous definition of 'ICON_FA_FAUCET_DRIP'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22188,1): warning C4005: 'ICON_FA_GALAXY': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(725,1): message : see previous definition of 'ICON_FA_GALAXY'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22194,1): warning C4005: 'ICON_FA_GARAGE': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(731,1): message : see previous definition of 'ICON_FA_GARAGE'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22195,1): warning C4005: 'ICON_FA_GARAGE_CAR': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(732,1): message : see previous definition of 'ICON_FA_GARAGE_CAR'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22196,1): warning C4005: 'ICON_FA_GARAGE_OPEN': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(733,1): message : see previous definition of 'ICON_FA_GARAGE_OPEN'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22314,1): warning C4005: 'ICON_FA_HEAT': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(860,1): message : see previous definition of 'ICON_FA_HEAT'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22348,1): warning C4005: 'ICON_FA_HOUSE': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(894,1): message : see previous definition of 'ICON_FA_HOUSE'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22350,1): warning C4005: 'ICON_FA_HOUSE_DAY': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(896,1): message : see previous definition of 'ICON_FA_HOUSE_DAY'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22352,1): warning C4005: 'ICON_FA_HOUSE_LEAVE': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(898,1): message : see previous definition of 'ICON_FA_HOUSE_LEAVE'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22353,1): warning C4005: 'ICON_FA_HOUSE_NIGHT': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(899,1): message : see previous definition of 'ICON_FA_HOUSE_NIGHT'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22354,1): warning C4005: 'ICON_FA_HOUSE_RETURN': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(900,1): message : see previous definition of 'ICON_FA_HOUSE_RETURN'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22355,1): warning C4005: 'ICON_FA_HOUSE_SIGNAL': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(901,1): message : see previous definition of 'ICON_FA_HOUSE_SIGNAL'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22411,1): warning C4005: 'ICON_FA_LAMP_DESK': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(958,1): message : see previous definition of 'ICON_FA_LAMP_DESK'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22412,1): warning C4005: 'ICON_FA_LAMP_FLOOR': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(959,1): message : see previous definition of 'ICON_FA_LAMP_FLOOR'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22439,1): warning C4005: 'ICON_FA_LIGHT_CEILING': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(987,1): message : see previous definition of 'ICON_FA_LIGHT_CEILING'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22440,1): warning C4005: 'ICON_FA_LIGHT_SWITCH': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(988,1): message : see previous definition of 'ICON_FA_LIGHT_SWITCH'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22441,1): warning C4005: 'ICON_FA_LIGHT_SWITCH_OFF': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(989,1): message : see previous definition of 'ICON_FA_LIGHT_SWITCH_OFF'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22442,1): warning C4005: 'ICON_FA_LIGHT_SWITCH_ON': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(990,1): message : see previous definition of 'ICON_FA_LIGHT_SWITCH_ON'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22529,1): warning C4005: 'ICON_FA_MICROWAVE': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1078,1): message : see previous definition of 'ICON_FA_MICROWAVE'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22589,1): warning C4005: 'ICON_FA_OUTLET': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1138,1): message : see previous definition of 'ICON_FA_OUTLET'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22590,1): warning C4005: 'ICON_FA_OVEN': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1139,1): message : see previous definition of 'ICON_FA_OVEN'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22663,1): warning C4005: 'ICON_FA_PLANET_MOON': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1214,1): message : see previous definition of 'ICON_FA_PLANET_MOON'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22664,1): warning C4005: 'ICON_FA_PLANET_RINGED': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1215,1): message : see previous definition of 'ICON_FA_PLANET_RINGED'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22676,1): warning C4005: 'ICON_FA_POLICE_BOX': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1227,1): message : see previous definition of 'ICON_FA_POLICE_BOX'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22684,1): warning C4005: 'ICON_FA_PORTAL_ENTER': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1235,1): message : see previous definition of 'ICON_FA_PORTAL_ENTER'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22685,1): warning C4005: 'ICON_FA_PORTAL_EXIT': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1236,1): message : see previous definition of 'ICON_FA_PORTAL_EXIT'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22714,1): warning C4005: 'ICON_FA_RADAR': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1267,1): message : see previous definition of 'ICON_FA_RADAR'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22724,1): warning C4005: 'ICON_FA_RAYGUN': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1277,1): message : see previous definition of 'ICON_FA_RAYGUN'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22733,1): warning C4005: 'ICON_FA_REFRIGERATOR': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1286,1): message : see previous definition of 'ICON_FA_REFRIGERATOR'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22752,1): warning C4005: 'ICON_FA_ROCKET_LAUNCH': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1305,1): message : see previous definition of 'ICON_FA_ROCKET_LAUNCH'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22803,1): warning C4005: 'ICON_FA_SENSOR': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1356,1): message : see previous definition of 'ICON_FA_SENSOR'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22804,1): warning C4005: 'ICON_FA_SENSOR_ALERT': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1357,1): message : see previous definition of 'ICON_FA_SENSOR_ALERT'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22805,1): warning C4005: 'ICON_FA_SENSOR_FIRE': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1358,1): message : see previous definition of 'ICON_FA_SENSOR_FIRE'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22806,1): warning C4005: 'ICON_FA_SENSOR_ON': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1359,1): message : see previous definition of 'ICON_FA_SENSOR_ON'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22807,1): warning C4005: 'ICON_FA_SENSOR_SMOKE': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1360,1): message : see previous definition of 'ICON_FA_SENSOR_SMOKE'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22857,1): warning C4005: 'ICON_FA_SIREN': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1412,1): message : see previous definition of 'ICON_FA_SIREN'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22858,1): warning C4005: 'ICON_FA_SIREN_ON': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1413,1): message : see previous definition of 'ICON_FA_SIREN_ON'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22896,1): warning C4005: 'ICON_FA_SOLAR_SYSTEM': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1452,1): message : see previous definition of 'ICON_FA_SOLAR_SYSTEM'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22907,1): warning C4005: 'ICON_FA_SORT_CIRCLE': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1463,1): message : see previous definition of 'ICON_FA_SORT_CIRCLE'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22908,1): warning C4005: 'ICON_FA_SORT_CIRCLE_DOWN': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1464,1): message : see previous definition of 'ICON_FA_SORT_CIRCLE_DOWN'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22909,1): warning C4005: 'ICON_FA_SORT_CIRCLE_UP': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1465,1): message : see previous definition of 'ICON_FA_SORT_CIRCLE_UP'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22927,1): warning C4005: 'ICON_FA_SPACE_STATION_MOON': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1483,1): message : see previous definition of 'ICON_FA_SPACE_STATION_MOON'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22928,1): warning C4005: 'ICON_FA_SPACE_STATION_MOON_ALT': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1484,1): message : see previous definition of 'ICON_FA_SPACE_STATION_MOON_ALT'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22941,1): warning C4005: 'ICON_FA_SPRINKLER': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1497,1): message : see previous definition of 'ICON_FA_SPRINKLER'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22957,1): warning C4005: 'ICON_FA_STAR_SHOOTING': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1513,1): message : see previous definition of 'ICON_FA_STAR_SHOOTING'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22958,1): warning C4005: 'ICON_FA_STARFIGHTER': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1514,1): message : see previous definition of 'ICON_FA_STARFIGHTER'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22959,1): warning C4005: 'ICON_FA_STARFIGHTER_ALT': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1515,1): message : see previous definition of 'ICON_FA_STARFIGHTER_ALT'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22961,1): warning C4005: 'ICON_FA_STARSHIP': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1517,1): message : see previous definition of 'ICON_FA_STARSHIP'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22962,1): warning C4005: 'ICON_FA_STARSHIP_FREIGHTER': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1518,1): message : see previous definition of 'ICON_FA_STARSHIP_FREIGHTER'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22998,1): warning C4005: 'ICON_FA_SWORD_LASER': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1557,1): message : see previous definition of 'ICON_FA_SWORD_LASER'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(22999,1): warning C4005: 'ICON_FA_SWORD_LASER_ALT': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1558,1): message : see previous definition of 'ICON_FA_SWORD_LASER_ALT'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23001,1): warning C4005: 'ICON_FA_SWORDS_LASER': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1560,1): message : see previous definition of 'ICON_FA_SWORDS_LASER'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23037,1): warning C4005: 'ICON_FA_TELESCOPE': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1596,1): message : see previous definition of 'ICON_FA_TELESCOPE'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23038,1): warning C4005: 'ICON_FA_TEMPERATURE_DOWN': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1597,1): message : see previous definition of 'ICON_FA_TEMPERATURE_DOWN'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23043,1): warning C4005: 'ICON_FA_TEMPERATURE_UP': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1602,1): message : see previous definition of 'ICON_FA_TEMPERATURE_UP'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23104,1): warning C4005: 'ICON_FA_TRAILER': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1664,1): message : see previous definition of 'ICON_FA_TRAILER'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23109,1): warning C4005: 'ICON_FA_TRANSPORTER': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1669,1): message : see previous definition of 'ICON_FA_TRANSPORTER'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23110,1): warning C4005: 'ICON_FA_TRANSPORTER_1': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1670,1): message : see previous definition of 'ICON_FA_TRANSPORTER_1'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23111,1): warning C4005: 'ICON_FA_TRANSPORTER_2': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1671,1): message : see previous definition of 'ICON_FA_TRANSPORTER_2'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23112,1): warning C4005: 'ICON_FA_TRANSPORTER_3': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1672,1): message : see previous definition of 'ICON_FA_TRANSPORTER_3'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23113,1): warning C4005: 'ICON_FA_TRANSPORTER_EMPTY': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1673,1): message : see previous definition of 'ICON_FA_TRANSPORTER_EMPTY'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23152,1): warning C4005: 'ICON_FA_UFO': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1712,1): message : see previous definition of 'ICON_FA_UFO'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23153,1): warning C4005: 'ICON_FA_UFO_BEAM': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1713,1): message : see previous definition of 'ICON_FA_UFO_BEAM'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23171,1): warning C4005: 'ICON_FA_USER_ALIEN': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1731,1): message : see previous definition of 'ICON_FA_USER_ALIEN'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23196,1): warning C4005: 'ICON_FA_USER_ROBOT': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1756,1): message : see previous definition of 'ICON_FA_USER_ROBOT'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23203,1): warning C4005: 'ICON_FA_USER_VISOR': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1764,1): message : see previous definition of 'ICON_FA_USER_VISOR'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23214,1): warning C4005: 'ICON_FA_VACUUM': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1776,1): message : see previous definition of 'ICON_FA_VACUUM'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23215,1): warning C4005: 'ICON_FA_VACUUM_ROBOT': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1777,1): message : see previous definition of 'ICON_FA_VACUUM_ROBOT'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23280,1): warning C4005: 'ICON_FA_WINDOW_FRAME': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1847,1): message : see previous definition of 'ICON_FA_WINDOW_FRAME'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Fonts.hpp(23281,1): warning C4005: 'ICON_FA_WINDOW_FRAME_OPEN': macro redefinition
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\icons.h(1848,1): message : see previous definition of 'ICON_FA_WINDOW_FRAME_OPEN'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Imgui/imgui_internal.h(2247,57): warning C4459: declaration of 'tab' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\definitions.h(60,5): message : see declaration of 'tab'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Imgui/imgui_internal.h(2248,56): warning C4459: declaration of 'tab' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\definitions.h(60,5): message : see declaration of 'tab'
+External.cpp(65,35): warning C4459: declaration of 'url' hides global declaration
+External.cpp(20,13): message : see declaration of 'url'
+External.cpp(193,9): warning C4189: 'handle': local variable is initialized but not referenced
+External.cpp(197,26): warning C4100: 'test': unreferenced formal parameter
+External.cpp(213,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(213,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(219,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(220,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(221,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(231,12): warning C4459: declaration of 'closestPawn' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(42,11): message : see declaration of 'closestPawn'
+External.cpp(257,115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(257,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(257,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(257,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(258,115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(258,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(258,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(258,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(259,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(259,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(259,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(259,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(260,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(260,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(260,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(260,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(266,9): warning C4459: declaration of 'color' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(505,3): message : see declaration of 'color'
+External.cpp(273,41): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+External.cpp(273,26): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+External.cpp(275,9): warning C4459: declaration of 'color' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(505,3): message : see declaration of 'color'
+External.cpp(282,41): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+External.cpp(282,26): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+External.cpp(285,9): warning C4459: declaration of 'color' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(505,3): message : see declaration of 'color'
+External.cpp(289,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(294,9): warning C4459: declaration of 'color' hides global declaration
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Cheat.h(505,3): message : see declaration of 'color'
+External.cpp(320,21): warning C4459: declaration of 'CurrentActorMesh' hides global declaration
+External.cpp(224,11): message : see declaration of 'CurrentActorMesh'
+External.cpp(357,51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(357,27): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+External.cpp(358,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(369,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(369,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(369,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(369,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(376,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(376,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(376,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(376,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(380,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(380,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(380,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(380,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(387,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(387,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(391,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(391,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(396,17): warning C4456: declaration of 'vHeadBone' hides previous local declaration
+External.cpp(348,14): message : see declaration of 'vHeadBone'
+External.cpp(412,17): warning C4456: declaration of 'vHeadBoneOut' hides previous local declaration
+External.cpp(350,14): message : see declaration of 'vHeadBoneOut'
+External.cpp(428,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(428,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(428,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(428,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(428,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(429,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(429,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(429,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(429,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(429,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(430,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(430,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(430,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(430,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(430,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(431,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(431,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(431,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(431,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(431,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(432,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(432,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(432,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(432,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(432,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(433,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(433,90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(433,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(433,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(433,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(434,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(434,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(434,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(434,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(434,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(435,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(435,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(435,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(435,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(435,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(436,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(436,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(436,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(436,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(436,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(437,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(437,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(437,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(437,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(437,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(438,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(438,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(438,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(438,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(438,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(439,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(439,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(439,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(439,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(439,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(440,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(440,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(440,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(440,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(440,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(441,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(441,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(441,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(441,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(441,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(448,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(448,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(448,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(452,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(452,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(452,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(458,14): warning C4459: declaration of 'name' hides global declaration
+External.cpp(16,13): message : see declaration of 'name'
+External.cpp(459,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(461,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(461,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(468,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(494,83): warning C4244: 'argument': conversion from 'DWORD_PTR' to 'int', possible loss of data
+External.cpp(524,83): warning C4244: 'argument': conversion from 'DWORD_PTR' to 'int', possible loss of data
+External.cpp(553,83): warning C4244: 'argument': conversion from 'DWORD_PTR' to 'int', possible loss of data
+External.cpp(305,18): warning C4189: 'PLAYER_STATE_OFFSET': local variable is initialized but not referenced
+External.cpp(326,17): warning C4189: 'bIsTargeting': local variable is initialized but not referenced
+External.cpp(325,17): warning C4189: 'bIsReloadingWeapon': local variable is initialized but not referenced
+External.cpp(664,44): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(664,38): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(665,43): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(665,37): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(666,43): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(666,37): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(667,42): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(667,36): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(668,48): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(668,42): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(669,43): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(669,37): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(670,50): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(670,44): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(671,49): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(671,43): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(672,43): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(672,37): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(673,49): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(673,43): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(674,52): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(674,46): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(675,45): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(675,39): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(676,47): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(676,41): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(677,49): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(677,43): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(678,56): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(678,50): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(679,55): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(679,49): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(680,45): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(680,39): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(681,46): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(681,40): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(682,52): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(682,46): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(683,42): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(683,36): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(684,49): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(684,43): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(685,48): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(685,42): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(686,42): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(686,36): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(687,49): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(687,43): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(688,48): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(688,42): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(690,52): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(690,46): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(691,51): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(691,45): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(692,46): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(692,40): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(695,39): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(695,33): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(696,46): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(696,40): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(697,45): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(697,39): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(704,50): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(704,44): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(874,61): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(878,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(878,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(732,15): warning C4189: 'pBackgroundDrawList': local variable is initialized but not referenced
+External.cpp(731,15): warning C4189: 'pWindowDrawList': local variable is initialized but not referenced
+External.cpp(729,15): warning C4101: 'pDrawList': unreferenced local variable
+External.cpp(730,15): warning C4189: 'CurrentWindowPos': local variable is initialized but not referenced
+External.cpp(733,15): warning C4189: 'pForegroundDrawList': local variable is initialized but not referenced
+External.cpp(1018,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+External.cpp(1019,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\xor.hpp(224,33): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\xor.hpp(222,11): message : while compiling class template member function 'char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25>>::decrypt(void)'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(485,10): message : see the first reference to 'CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25>>::decrypt' in 'xInitD3d'
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\MainIncludes.h(484,2): message : see reference to class template instantiation 'CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25>>' being compiled
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Print.hpp(165,20): warning C4505: 'string_to_timet': unreferenced function with internal linkage has been removed
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\Print.hpp(172,16): warning C4505: 'timet_to_tm': unreferenced function with internal linkage has been removed
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\driver.h(27): warning C4706: assignment within conditional expression
+D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\External.cpp(494): warning C4700: uninitialized local variable 'UD' used
+  All 1961 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Skarware.vcxproj -> D:\ZennyHenny\coding\cheetos\self coded stuff\All old skarware stuff\SkarWare v7\Skarware\build\Skarware.exe
